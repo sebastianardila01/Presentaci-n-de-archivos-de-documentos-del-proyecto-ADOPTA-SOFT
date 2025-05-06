@@ -1,2 +1,2 @@
-# Presentaci-n-de-archivos-de-documentos-del-proyecto-ADOPTA-SOFT
+# Presentación-de-archivos-de-documentos-del-proyecto-ADOPTA-SOFT
 ADOPTA-SOFT es una plataforma digital que facilita la adopción de mascotas, conectando adoptantes con refugios. A través de un sistema fácil de usar, los usuarios pueden buscar y adoptar mascotas, mientras que los refugios gestionan sus animales. Los documentos del proyecto detallan la estructura, requerimientos y planificación del sistema.
